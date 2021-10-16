@@ -1,0 +1,33 @@
+
+	<!--HEADER-->
+	<div style="width:100%;background:#999 url(https://i.imgur.com/MP6vOYh.png)center;background-size:cover;height:250px;margin:0 0 30px 0;display:flex;align-items:center;justify-content:center;text-align:center;line-height:1;">
+
+    	<div style="background:#fff;padding:10px 20px;min-width:240px;">
+        	<div style="text-transform:lowercase;font-style:italic;font-size:25px;">
+            	AUTUMN GROVE HOMECOMING 2021
+        	</div>
+        	<div style="text-transform:uppercase;letter-spacing:4px;font-size:10px;">
+            	under the sea
+        	</div>
+    	</div>
+
+	</div>
+  
+<!--AESTHETICS-->
+	<fieldset style="width:100%;margin:0 0 20px 0;padding:15px;border:1px solid #ccc;">
+    	<legend style="background:#000;color:#fff;padding:5px 20px;text-transform:uppercase;letter-spacing:2px;font-size:10px;">
+        	Aesthetics
+    	</legend>
+
+    	<div style="display:grid;grid-template-columns:1fr 1fr 1fr 1fr;grid-template-rows:1fr 1fr 1fr;grid-template-areas:'one one six seven' 'two three three seven' 'two four five five';grid-gap:10px;height:500px;">
+        	<div style="grid-area:one;background:#ddd url(https://i.imgur.com/LGYLxyj.jpg?2)center;background-size:cover;"></div>
+        	<div style="grid-area:two;background:#ddd url(https://i.pinimg.com/236x/54/78/e8/5478e82671faf1b11a87e07941a36d67.jpg)center;background-size:cover;"></div>
+        	<div style="grid-area:three;background:#ddd url(https://i.imgur.com/IOeIexU.png)center;background-size:cover;"></div>
+        	<div style="grid-area:four;background:#ddd url(https://i.imgur.com/VU491an.png)center;background-size:cover;"></div>
+        	<div style="grid-area:five;background:#ddd url(https://i.imgur.com/o3sjSl3.png)center;background-size:cover;"></div>
+        	<div style="grid-area:six;background:#ddd url(https://i.pinimg.com/236x/3c/5b/5a/3c5b5a5f0637210d7bcc5790d62147d7.jpg)center;background-size:cover;"></div>
+        	<div style="grid-area:seven;background:#ddd url(https://i.pinimg.com/236x/d7/3d/7d/d73d7dfed27ce066964f1f75b04dba6c.jpg
+)center;background-size:cover;"></div>
+    	</div>
+
+	</fieldset>
